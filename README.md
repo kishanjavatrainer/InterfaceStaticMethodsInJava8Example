@@ -1,0 +1,1 @@
+# InterfaceStaticMethodsInJava8Example
